@@ -4,4 +4,8 @@ tensorflow
 librosa 
 soundfile
 streamlit_audio_recorder
-
+tensorflow.keras.models
+tensorflow.keras
+keras
+tempfile
+numpy
