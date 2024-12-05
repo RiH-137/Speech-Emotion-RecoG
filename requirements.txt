@@ -2,9 +2,6 @@ h5py
 streamlit
 tensorflow 
 librosa 
-soundfile
-tensorflow.keras.models
-tensorflow.keras
 keras
 tempfile
 numpy
