@@ -2,6 +2,4 @@ h5py
 streamlit
 tensorflow 
 librosa 
-keras
-tempfile
 numpy
