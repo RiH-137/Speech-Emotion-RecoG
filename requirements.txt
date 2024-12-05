@@ -1,0 +1,7 @@
+h5py
+streamlit
+tensorflow 
+librosa 
+soundfile
+streamlit_audio_recorder
+
